@@ -1,0 +1,18 @@
+# NetBeans specific
+/nbproject/private/
+/build/
+/dist/
+/nbbuild/
+/.nb-gradle/
+
+# Compiled files
+*.class
+*.log
+
+# JARs and packages
+*.jar
+*.war
+*.ear
+*.zip
+*.tar.gz
+*.rar
