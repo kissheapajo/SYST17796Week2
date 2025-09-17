@@ -10,7 +10,7 @@ import java.util.Scanner;
 
 /**
  *
- * @author Megha Patel
+ * @author Megha Patel, Sep 17, 2025
  */
 public class StudentList {
 
